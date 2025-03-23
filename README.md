@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AsmaaAbdellatif
 - 👀 I'm a passionate Computer Engineering student in my second year at Birzeit University. I'm excited about exploring new technologies and contributing to interesting projects.
-- 🌱 I’m currently learning full-stack web developer 
+- 🌱 I’m a full-stack web developer at jerusalem high-tech foundry.
 - 💞️ I want to collaborate on open-source software, innovative tech solutions, and web development.
 - 📫 How to reach me by email asmaa.younes.abdellatif@gmail.com
 
